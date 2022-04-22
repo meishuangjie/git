@@ -14,7 +14,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <struts.version>2.3.24.1</struts.version>
+        <struts.version>2.5.30</struts.version>
         <struts.javassist.version>3.12.1.GA</struts.javassist.version>
         <spring.version>4.2.4.RELEASE</spring.version>
         <mybatis.version>3.2.2</mybatis.version>
